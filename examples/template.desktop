@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name={name}
 Comment={comment}
-Exec=/home/luk/tmp/pwa {url}
+Exec=pwa {url}
 Icon={domain}
 Terminal=false
 Type=Application
