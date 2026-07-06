@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Tumblr
 Comment=This is tumblr
-Exec=pwa https://www.tumblr.com/
+Exec=pwa https://tumblr.com/
 Icon=tumblr.com
 Terminal=false
 Type=Application
