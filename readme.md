@@ -1,5 +1,7 @@
 # Simple pwa (aka website as an app) for Linux Mobile (or not)
 
+![screenshot](./screenshot.png)
+
 this program literaly opens a website in a borderless window.
 
 all the data is stored in `~/.local/share/pwa`
