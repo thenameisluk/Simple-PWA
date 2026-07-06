@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Tumblr
+Comment=This is tumblr
+Exec=/home/luk/tmp/pwa https://www.tumblr.com/
+Icon=tumblr.com
+Terminal=false
+Type=Application
+Categories=Network;

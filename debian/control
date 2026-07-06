@@ -1,0 +1,19 @@
+Source: simple-pwa
+Standards-Version: 4.7.4
+Maintainer: Åukasz Osadnik <lukasz.osadik@wp.pl>
+Section: misc
+Build-Depends:
+ debhelper-compat (= 14),
+ libgtk-4-dev,
+ libwebkitgtk-6.0-dev,
+ libglib2.0-dev,
+ valac,
+ pkg-config,
+ make,
+
+Package: simple-pwa
+Architecture: any
+Depends:
+ ${shlibs:Depends},
+Description: simple pwa
+ simple pwa

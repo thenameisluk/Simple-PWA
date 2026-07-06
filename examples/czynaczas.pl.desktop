@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=czynaczas
+Comment=Rozkład jazdy online
+Exec=/home/luk/tmp/pwa https://czynaczas.pl
+Icon=czynaczas.pl
+Terminal=false
+Type=Application
+Categories=Network;
