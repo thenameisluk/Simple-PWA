@@ -1,6 +1,6 @@
 # Simple pwa (aka website as an app) for Linux Mobile (or not)
 
-![screenshot](./screenshot.png)
+<img src="screenshot.png" alt="screenshot" width="200"/>
 
 this program literaly opens a website in a borderless window.
 
